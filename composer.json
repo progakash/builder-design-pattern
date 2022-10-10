@@ -1,0 +1,15 @@
+{
+    "name": "hp/builder-design-pattern",
+    "autoload": {
+        "psr-4": {
+            "BuilderDesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "akash-ju16",
+            "email": "akash.ju.msc@gmail.com"
+        }
+    ],
+    "require": {}
+}
